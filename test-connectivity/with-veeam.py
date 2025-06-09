@@ -7,7 +7,7 @@ import ssl
 def handler(context, inputs):
     veeam_url = "https://172.16.106.100:9398/api"
     user = ".\Stage-Pfe"
-    passw = "dbfk9rdtECT+Om"
+    passw = "xxxxxxxxxx"
     #encode credentials for basic auth
     credentials = f"{user}:{passw}"
     encode_credentials = base64.b64encode(credentials.encode()).decode()
