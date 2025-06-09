@@ -8,7 +8,7 @@ def handler(context, inputs):
     # Veeam B&R Server Details
     user = ".\\stage_pfe"
     print(user)
-    passw = "IO\"UF^u'3Jun"
+    passw = "xxxxxxxxx"
     print(passw)
     url = "172.16.205.206:9419"
     endpoint = "/api/oauth2/token"
