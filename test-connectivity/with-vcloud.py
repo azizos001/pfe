@@ -7,7 +7,7 @@ import ssl
 def handler(context, inputs):
     #Vcloud Director Details
     user = "stage-pfe"
-    passw = "k'HvD1bb:yekI%"
+    passw = "xxxxxxxx"
     url = "172.16.106.4"
     endpoint = "/cloudapi/1.0.0/sessions/provider"
     #encode cred in base64 for basic auth
