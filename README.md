@@ -1,6 +1,6 @@
 #  Automatisation de la Sauvegarde et Restauration des VMs – Projet de Fin d'Études
 
-Ce dépôt contient l’ensemble des scripts développés dans le cadre du Projet de Fin d’Études réalisé chez **Focus Technology Solutions (FTS)**. Le projet a pour objectif d’automatiser la **sauvegarde** et la **restauration** des machines virtuelles (VMs) hébergées dans des environnements VMware Cloud Director à l’aide de **vRealize Orchestrator (vRO)** et **Veeam Backup & Replication**.
+Ce dépôt contient l’ensemble des scripts développés dans le cadre du Projet de Fin d’Études réalisé chez **FTS**. Le projet a pour objectif d’automatiser la **sauvegarde** et la **restauration** des machines virtuelles (VMs) hébergées dans des environnements VMware Cloud Director à l’aide de **vRealize Orchestrator (vRO)** et **Veeam Backup & Replication**.
 
 ##  Structure du dépôt
 
@@ -26,7 +26,10 @@ Ce dépôt contient l’ensemble des scripts développés dans le cadre du Proje
 │   └── send mail.js                # Envoi du rapport par mail (si activé)
 ```
 # Technologies utilisées
+```
 VMware vRealize Orchestrator (vRO)
 Veeam Backup & Replication / Enterprise Manager
-VMware Cloud Director API
-Python (Appels REST)
+VMware Cloud Director 
+Python
+javascript
+```
