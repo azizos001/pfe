@@ -12,7 +12,7 @@ Ce dépôt contient l’ensemble des scripts développés dans le cadre du Proje
 │   ├── with-vcloud.py       # Test de connexion à VMware Cloud Director
 │   ├── with-vem.py          # Test de connexion à Veeam Enterprise Manager
 │   └── with-vbr.py          # Test de connexion à Veeam Backup & Replication
-📁 restore_workflow/
+📁 autorestore-vf/
 │   ├── get-vms-from-vdc.py        # Récupération des VMs depuis les VDCs sélectionnés
 │   ├── logout-vcloud.py           # Déconnexion sécurisée de vCloud Director
 │   └── VMs Selected.py            # Traitement des VMs sélectionnées via l’interface utilisateur
